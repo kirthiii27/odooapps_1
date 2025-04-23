@@ -24,7 +24,7 @@
     'data': [
 
     ],
-
+    'images': ['static/description/banner.gif'],
     'installable': True,
     'auto_install': False,
     'application': True,
