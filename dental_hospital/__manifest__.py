@@ -9,7 +9,7 @@
     'author': "Alan Technologies",
     'company': "Alan Technologies",
     'maintainer': 'Alan Technologies',
-    'website': "https://www.alantech.com",
+    'website': "https://alantechnologies.in/",
     "license": "AGPL-3",
     'category': 'Hospital',
     'version': '18.0.1.0.0',
