@@ -39,7 +39,7 @@
         'report/dental_prescription_templates.xml',
         'security/ir.model.access.csv'
     ],
-
+    'images': ['static/description/banner.gif'],
     'installable': True,
     'auto_install': False,
     'application': True,
