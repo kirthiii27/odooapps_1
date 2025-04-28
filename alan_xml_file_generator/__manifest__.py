@@ -1,15 +1,29 @@
 {
-    'name': "XML File Generator for Tax Office",
+    'name': "XML File Generator for Tax Office | Odoo XML File Generator for Invoices | Sales Export to Tax Office",
     'description': """
-        This module allows users to generate XML files for Sales Invoices and send them as attachments directly from Odoo.
+        Easily generate XML files from Sales Invoices in Odoo and send them as attachments directly to the Tax Office.
 
-        Key Features:
-        - Generate XML version of sales invoice data
+        ✅ Key Features:
+        - Export Sales Invoices to XML format
         - Include customer details, invoice lines, tax information
-        - Generating XML files and sending them, probably to the Tax Office (for example SAF-T, Angola, Portugal, etc.).
-       
+        - Supports SAF-T compliance for Tax Authorities (example: Angola, Portugal, etc.)
+        - Send XML files directly from Odoo as attachments
+        - Designed for Odoo 18, Odoo 17, and compatible versions
+
+        📂 Use Cases:
+        - Submit sales data to government tax portals
+        - Generate structured invoice reports in XML
+        - Simplify tax compliance and digital reporting
+
+        🔧 Technical:
+        - User-friendly wizard to generate XML
+        - Secure attachment management inside Odoo
+        - Works seamlessly with Odoo's Accounting and Sales modules
+
+        Developed and maintained by Alan Technologies.
+
     """,
-    'summary': """ Generate XML file from Invoices/Sales and send it to Tax Office.""",
+    'summary': """ Generate XML file from Invoices/Sales and send it to Tax Office. | Export Sales Invoices to XML format | Send XML files to Tax Authority | Odoo 18 XML Generator.""",
     'sequence': 1,
     'author': 'Alan Technologies',
     'company': 'Alan Technologies',
