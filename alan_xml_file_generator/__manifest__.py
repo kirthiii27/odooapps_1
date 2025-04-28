@@ -1,5 +1,5 @@
 {
-    'name': "XML File Generator for Tax Office | Odoo XML File Generator for Invoices | Sales Export to Tax Office",
+    'name': "Odoo 18 XML File Generator for Tax Office | XML File Generator for Tax Office | Odoo XML File Generator for Invoices | Sales Export to Tax Office",
     'description': """
         Easily generate XML files from Sales Invoices in Odoo and send them as attachments directly to the Tax Office.
 
@@ -30,7 +30,7 @@
     'maintainer': 'Alan Technologies',
     'website': "https://alantechnologies.in/",
     "license": "AGPL-3",
-    'category': 'account',
+    'category': 'Accounting',
     'version': '18.0.1.0.0',
     'depends': ['base', 'sale', 'account'],
     'data': [
