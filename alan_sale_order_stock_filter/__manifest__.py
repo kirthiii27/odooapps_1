@@ -21,7 +21,7 @@
     'data': [
         'views/sale_order_stock_filter_view.xml',
     ],
-    # 'images': ['static/description/banner.gif'],
+    'images': ['static/description/banner.gif'],
     'installable': True,
     'application': False,
     'auto_install': False,
