@@ -27,6 +27,7 @@
             # add css/js if required
         ],
     },
+    'images': ['static/description/banner.gif'],
     'installable': True,
     'application': True,
 }
