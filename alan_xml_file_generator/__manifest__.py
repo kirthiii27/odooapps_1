@@ -12,7 +12,7 @@
 
         📂 Use Cases:
         - Submit sales data to government tax portals
-        - Generate structured invoice reports in XML
+        - Generate structured invoice report in XML
         - Simplify tax compliance and digital reporting
 
         🔧 Technical:

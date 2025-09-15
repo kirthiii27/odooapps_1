@@ -31,7 +31,7 @@ class DentalPatients(models.Model):
                                                 help="connect model medical questionnaire in patients")
     report_ids = fields.One2many('xray.report', 'patient_id',
                                  string='X-Ray',
-                                 help="To add the xray reports of the patient")
+                                 help="To add the xray report of the patient")
 
     @api.depends('complete_name', 'email', 'vat', 'state_id', 'country_id', 'commercial_company_name', 'patient_no')
     @api.depends_context('show_address', 'partner_show_db_id', 'address_inline', 'show_email', 'show_vat', 'lang')
